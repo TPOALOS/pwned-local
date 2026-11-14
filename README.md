@@ -67,3 +67,7 @@ line, unsorted file with `--verify-sorted`).
 - Tested on small synthetic files only, not on the full multi-gigabyte data set.
 
 MIT licensed.
+
+---
+
+**More tools by [TPOALOS](https://github.com/TPOALOS):** [pwhash-audit](https://github.com/TPOALOS/pwhash-audit) · [exifstrip](https://github.com/TPOALOS/exifstrip) · [secretscan](https://github.com/TPOALOS/secretscan) · [all 61 tools](https://tpoalos.github.io)
